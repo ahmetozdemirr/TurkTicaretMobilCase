@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "641197906136",
+    "project_id": "case-flutter",
+    "storage_bucket": "case-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641197906136:android:41dd6042d7f654f00d5fad",
+        "android_client_info": {
+          "package_name": "com.example.turk_ticaret_case_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641197906136-5ht6gnet7i3pf8nlnqmqdjo1qeq1kbt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiz1PNuF0-Pc_BHMIE9QL83jippWwyun4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641197906136-5ht6gnet7i3pf8nlnqmqdjo1qeq1kbt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
